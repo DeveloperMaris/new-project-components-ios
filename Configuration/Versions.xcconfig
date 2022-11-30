@@ -1,0 +1,12 @@
+//
+//  Created by Maris Lagzdins on 12/10/2022.
+//  Copyright © 2022 Maris Lagzdins. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+VERSIONING_SYSTEM = apple-generic
+MARKETING_VERSION = 0.1.0
+CURRENT_PROJECT_VERSION = 1
+DYLIB_CURRENT_VERSION = $(CURRENT_PROJECT_VERSION)
